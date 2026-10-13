@@ -1,0 +1,76 @@
+---
+title: "Slide Pad Load Drill"
+中文名: "滑垒垫蓄力练习"
+aliases:
+  - "Slide Pad Load Drill"
+  - "滑垒垫蓄力练习"
+类别: "Hitting"
+类别中文: "击球"
+难度: "beginner"
+时长分钟: 10
+最少人数: 1
+最多人数: 6
+适用年龄: "9-10、11-12、13-14、15-16、17-18、18+"
+器材: ["球棒", "球座", "滑垒垫"]
+场地: ["不限场地", "击球笼"]
+全部类别: ["hitting"]
+技术点: ["load", "hip-coil", "body-control"]
+视频: "https://www.youtube.com/embed/Z1txD_mO1xM?start=309"
+来源: "https://www.dugoutedge.com/drills/softball/slide-pad-load-drill"
+tags:
+  - 棒垒球/hitting
+  - 棒垒球/技术点/load
+  - 棒垒球/技术点/hip-coil
+  - 棒垒球/技术点/body-control
+  - 难度/beginner
+---
+
+# Slide Pad Load Drill
+**滑垒垫蓄力练习**
+
+> [!info] 项目信息
+> - **运动项目**：棒球 / 垒球
+> - **类别**：Hitting 击球
+> - **难度**：初级
+> - **时长**：约 10 分钟
+> - **人数**：1-6 人
+> - **适用年龄**：9-10、11-12、13-14、15-16、17-18、18+
+> - **所需器材**：球棒、球座、滑垒垫
+> - **场地要求**：不限场地、击球笼
+
+## 项目简介
+
+一项缓慢、有控制的练习，在前脚下方放置滑垒垫（或披萨盒盖）来为整个身体蓄力。当前脚向前滑动时，打者同时完成髋部拧紧与肩胛蓄力，从而精确分离出在蓄力阶段应当发力的肌群。
+
+## 训练步骤
+
+1. 把滑垒垫、家具滑垫、披萨盒盖或保鲜盒盖平放在地面上，位于前脚下方。光滑的表面能让前脚向前滑动而不抓地。
+2. 球员以正常的击球站姿站好，前脚踩在滑垫上。开始时棒柄朝向投手方向伸直，身体直立、上下成一条直线。
+3. 开始缓慢向前进入跨步。当前脚在垫子上向前滑动时，同时开始进入髋部拧紧——蓄力进入后侧髋关节和后侧臀肌。
+4. 当前脚滑动、髋部拧紧时，棒柄向下并向后（朝捕手方向）运行。这是上半身蓄力进入后侧肩胛。
+5. 持续到进入启动姿势。此时你应当感觉到：后腿绷紧、后侧肩胛有力且已蓄力、前侧（前侧背阔肌）有拉伸感。这些感觉确认蓄力到位。
+6. 如果平衡正确，前脚不会失控滑开。滑垫就是平衡检查——滑动失控意味着重心过早、过快前移。
+7. 从启动姿势发力进入挥棒。
+8. 回到起始姿势重复。动作要缓慢可控——目的是感受每一组肌肉依次蓄力，而不是把球打得很重。
+
+## 教练要点
+
+- 滑垫就是平衡检查：如果前脚失控滑开，说明重心前移过早。要保持在后侧髋。
+- 动作缓慢可控——这个练习是隔离感受每一组肌肉的蓄力。速度不是重点。
+- 前脚向前滑动的同时，棒柄向下并向后（朝捕手方向）运行——上半身与下半身同时蓄力。
+- 在启动姿势感受三点：后腿绷紧、后侧肩胛有力、前侧背阔肌有拉伸感。三点齐备才算蓄力到位。
+- 没有滑垫？披萨盒盖或保鲜盒盖在光滑地面上同样好用。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1txD_mO1xM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[在 YouTube 观看](https://www.youtube.com/embed/Z1txD_mO1xM?start=309)
+
+---
+
+## 导航
+
+- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
+- 同类项目：[[drills/softball/Hitting 击球|Hitting 击球]]
+- 原始页面：[Dugout Edge - Slide Pad Load Drill](https://www.dugoutedge.com/drills/softball/slide-pad-load-drill)

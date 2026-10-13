@@ -1,0 +1,96 @@
+---
+title: "Alligator Hands Grounders"
+中文名: "鳄鱼手接地滚球"
+aliases:
+  - "Alligator Hands Grounders"
+  - "鳄鱼手接地滚球"
+类别: "Infield"
+类别中文: "内野防守"
+难度: "beginner"
+时长分钟: 10
+最少人数: 2
+最多人数: 10
+适用年龄: "4-6、7-8、9-10"
+器材: ["标志锥", "棒球或垒球"]
+场地: ["整个球场", "仅内野"]
+全部类别: ["infield"]
+技术点: ["situational"]
+视频: "https://www.youtube.com/embed/Rw4PGs60rys"
+来源: "https://www.dugoutedge.com/drills/softball/alligator-hands-grounders"
+tags:
+  - 棒垒球/infield
+  - 棒垒球/技术点/situational
+  - 难度/beginner
+---
+
+# Alligator Hands Grounders
+**鳄鱼手接地滚球**
+
+> [!info] 项目信息
+> - **运动项目**：棒球 / 垒球
+> - **类别**：Infield 内野防守
+> - **难度**：初级
+> - **时长**：约 10 分钟
+> - **人数**：2-10 人
+> - **适用年龄**：4-6、7-8、9-10
+> - **所需器材**：标志锥、棒球或垒球
+> - **场地要求**：整个球场、仅内野
+
+## 项目简介
+
+基础地滚球练习，教授双手「鳄鱼嘴」式稳固接球与居中收球。
+
+## 训练步骤
+
+1. 布置：
+2. 两名搭档相距 10-15 英尺，面对面站立
+3. 如果是多组同时练习，用标志锥标出各自的通道
+4. 带初学者时使用软式球或练习球，保证安全
+5. 讲解「鳄鱼嘴」概念
+6. 手套手伸在身前，掌心向上（下颚）
+7. 传球手放在手套上方，掌心向下（上颚）
+8. 球进入时，双手像鳄鱼嘴一样合拢夹紧
+9. 这样能防止球弹出来
+10. 运动姿态与预备姿势
+11. 双脚与肩同宽，膝盖弯曲
+12. 重心放在前脚掌，不要放在脚跟
+13. 手套要伸在身前，不要收回身体旁
+14. 眼睛在球的后方——一路盯着球进手套
+15. 正面送球（8-10 次）
+16. 搭档向球员正面缓慢滚出地滚球
+17. 球员在身体中线位置用「鳄鱼嘴」手法接球
+18. 传球前先把球收稳到胸口／中线位置
+19. 上步并把球传到搭档胸口
+20. 正手侧送球（5-8 次）
+21. 搭档把地滚球滚向手套手一侧
+22. 球员用滑步移动到球的正后方
+23. 仍然在中线位置用正确技术接球
+24. 重点放在步法上，让身体进入正确位置
+25. 反手侧送球（5-8 次）
+26. 搭档把地滚球滚向传球手一侧
+27. 球员移动脚步移动到球的正后方
+28. 同样使用「鳄鱼嘴」技术
+29. 强调移动脚步，而不是伸手去够球
+
+## 教练要点
+
+- 手套始终伸在身前——不要收回身体旁
+- 眼睛在球的后方——盯着球进手套
+- 传球前先把球收稳到中线位置
+- 对着大目标传球——搭档的胸口
+- 移动脚步到球的正后方——不要只是伸手够球
+- 这个年龄段每一次地滚球都要双手接球
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rw4PGs60rys" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[在 YouTube 观看](https://www.youtube.com/embed/Rw4PGs60rys)
+
+---
+
+## 导航
+
+- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
+- 同类项目：[[drills/softball/Infield 内野防守|Infield 内野防守]]
+- 原始页面：[Dugout Edge - Alligator Hands Grounders](https://www.dugoutedge.com/drills/softball/alligator-hands-grounders)

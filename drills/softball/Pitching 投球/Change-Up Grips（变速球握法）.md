@@ -1,0 +1,83 @@
+---
+title: "Change-Up Grips"
+中文名: "变速球握法"
+aliases:
+  - "Change-Up Grips"
+  - "变速球握法"
+类别: "Pitching"
+类别中文: "投球"
+难度: "beginner"
+时长分钟: 5
+最少人数: 1
+最多人数: 5
+适用年龄: "11-12、13-14、15-16、17-18、18+、9-10"
+器材: ["棒球或垒球"]
+场地: ["投手练习区", "整个球场"]
+全部类别: ["pitching"]
+技术点: ["grip-design"]
+视频: "https://www.youtube.com/embed/NXBLOSQYlU8"
+来源: "https://www.dugoutedge.com/drills/softball/change-up-grips"
+tags:
+  - 棒垒球/pitching
+  - 棒垒球/技术点/grip-design
+  - 难度/beginner
+---
+
+# Change-Up Grips
+**变速球握法**
+
+> [!info] 项目信息
+> - **运动项目**：棒球 / 垒球
+> - **类别**：Pitching 投球
+> - **难度**：初级
+> - **时长**：约 5 分钟
+> - **人数**：1-5 人
+> - **适用年龄**：11-12、13-14、15-16、17-18、18+、9-10
+> - **所需器材**：棒球或垒球
+> - **场地要求**：投手练习区、整个球场
+
+## 项目简介
+
+投球练习，用于尝试不同的变速球握法，找出最适合每位投手自己的那一种。
+
+## 训练步骤
+
+1. 1 名搭档站在左/右外野边线上，另 1 名搭档在 40 英尺外的左/右外野
+2. 接球搭档以捕手姿势蹲下接球
+3. 投球搭档完成完整的投球动作投出变速球
+4. 投球搭档应练习多种变速球握法，包括但不限于：
+    - 三指变速球
+    - 把无名指、中指和食指居中放在球的上方
+    - 把拇指和小指放在球下方的光滑面上；这两根手指相触有助于建立对球的可感手感
+    - 把球握在掌心较深的位置，以最大化摩擦、在出手时降低球速
+    - 二-缝线变速球
+    - 把中指和无名指放在两条缝线内侧
+    - 以与快球相同的手臂速度投出，但握得更松、球在手中略深一些
+    - 圈指变速球
+    - 用拇指和食指在球上做出「OK」的手势
+    - 把球居中放在另外三根手指之间，让它舒适地贴在圆圈上
+    - 以与快球相同的手臂速度和身体动作机制投出，但让球略微翻转，把圆圈朝向目标，做出类似「拇指朝下」的手势
+5. 搭档应每投 10 球交换一次，每一组 10 球练习一种不同的握法
+
+## 教练要点
+
+- 先尝试三指变速球（最容易学）
+- 二-缝线变速球能带来更多位移
+- 圈指变速球适合高级投手
+- 所有握法都要保持相同的手臂速度
+- 球应握在掌心更深的位置
+- 找到感觉自然、又能出效果的握法
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NXBLOSQYlU8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[在 YouTube 观看](https://www.youtube.com/embed/NXBLOSQYlU8)
+
+---
+
+## 导航
+
+- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
+- 同类项目：[[drills/softball/Pitching 投球|Pitching 投球]]
+- 原始页面：[Dugout Edge - Change-Up Grips](https://www.dugoutedge.com/drills/softball/change-up-grips)

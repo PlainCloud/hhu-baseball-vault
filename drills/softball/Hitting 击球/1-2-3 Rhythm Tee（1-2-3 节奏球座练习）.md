@@ -1,0 +1,76 @@
+---
+title: "1-2-3 Rhythm Tee"
+中文名: "1-2-3 节奏球座练习"
+aliases:
+  - "1-2-3 Rhythm Tee"
+  - "1-2-3 节奏球座练习"
+类别: "Hitting"
+类别中文: "击球"
+难度: "intermediate"
+时长分钟: 5
+最少人数: 1
+最多人数: 5
+适用年龄: "9-10、11-12、13-14、15-16、17-18、18+"
+器材: ["挡网", "球座", "棒球或垒球"]
+场地: ["击球笼", "整个球场"]
+全部类别: ["hitting"]
+技术点: ["mechanics"]
+视频: "https://www.youtube.com/embed/BHfyJQLujhs"
+来源: "https://www.dugoutedge.com/drills/softball/1-2-3-rhythm-tee"
+tags:
+  - 棒垒球/hitting
+  - 棒垒球/技术点/mechanics
+  - 难度/intermediate
+---
+
+# 1-2-3 Rhythm Tee
+**1-2-3 节奏球座练习**
+
+> [!info] 项目信息
+> - **运动项目**：棒球 / 垒球
+> - **类别**：Hitting 击球
+> - **难度**：中级
+> - **时长**：约 5 分钟
+> - **人数**：1-5 人
+> - **适用年龄**：9-10、11-12、13-14、15-16、17-18、18+
+> - **所需器材**：挡网、球座、棒球或垒球
+> - **场地要求**：击球笼、整个球场
+
+## 项目简介
+
+中级到高级的球座练习，用步法来培养节奏与时机，让全身协调配合，打出有力量且平衡的挥棒。球员不是从静止的站姿击球，而是带着一小段走近或上步来击打球座上的球。
+
+## 训练步骤
+
+1. 球座架在本垒板中线稍靠前的位置
+2. 击球员站到离本垒板后方两步的位置（朝捕手方向）
+3. 击球员把后脚交叉迈到前脚前面，同时保持正面朝向本垒板
+4. 击球员随后用前脚迈入正常击球站姿的位置
+5. 当前脚朝投手方向向前移动时，重心应作为蓄力转移到后脚上，前脚则跨入正常的跨步位置
+6. 击球员随后努力把球打回中路，借助脚步带来的动量，在数到 3 时击球（从第一步开始数）
+7. 目标是让击球员在迈步倒数时，正好在数到 3 时把跨步脚落地
+8. 这项练习非常适合训练身体协调，并让自己能稳定地在正确位置上带节奏地击球
+9. 5 次挥棒后两人互换
+
+## 教练要点
+
+- 后脚交叉迈到前面，上步进入站姿，然后挥棒
+- 全部都在 3 拍节奏里完成
+- 感受从迈步到挥棒的重心转移
+- 在迈步过程中始终保持平衡
+- 这能建立时机感与协调性
+- 在数到 3 时把球打回中路
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BHfyJQLujhs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[在 YouTube 观看](https://www.youtube.com/embed/BHfyJQLujhs)
+
+---
+
+## 导航
+
+- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
+- 同类项目：[[drills/softball/Hitting 击球|Hitting 击球]]
+- 原始页面：[Dugout Edge - 1-2-3 Rhythm Tee](https://www.dugoutedge.com/drills/softball/1-2-3-rhythm-tee)

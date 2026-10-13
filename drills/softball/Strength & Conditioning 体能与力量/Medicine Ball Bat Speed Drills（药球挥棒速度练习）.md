@@ -1,0 +1,77 @@
+---
+title: "Medicine Ball Bat Speed Drills"
+中文名: "药球挥棒速度练习"
+aliases:
+  - "Medicine Ball Bat Speed Drills"
+  - "药球挥棒速度练习"
+类别: "Strength & Conditioning"
+类别中文: "体能与力量"
+难度: "intermediate"
+时长分钟: 10
+最少人数: 1
+最多人数: 4
+适用年龄: "13-14、15-16、17-18、18+"
+器材: ["药球", "墙面"]
+场地: ["不限场地"]
+全部类别: ["strength-conditioning", "hitting"]
+技术点: ["bat-speed", "core-strength", "rotational-power"]
+视频: "https://www.youtube.com/embed/r9fs-HGCZTs"
+来源: "https://www.dugoutedge.com/drills/softball/medicine-ball-bat-speed-drills"
+tags:
+  - 棒垒球/strength-conditioning
+  - 棒垒球/技术点/bat-speed
+  - 棒垒球/技术点/core-strength
+  - 棒垒球/技术点/rotational-power
+  - 难度/intermediate
+---
+
+# Medicine Ball Bat Speed Drills
+**药球挥棒速度练习**
+
+> [!info] 项目信息
+> - **运动项目**：棒球 / 垒球
+> - **类别**：Strength & Conditioning 体能与力量
+> - **难度**：中级
+> - **时长**：约 10 分钟
+> - **人数**：1-4 人
+> - **适用年龄**：13-14、15-16、17-18、18+
+> - **所需器材**：药球、墙面
+> - **场地要求**：不限场地
+
+## 项目简介
+
+一系列药球练习，用于建立旋转爆发力、核心力量和髋部驱动，这些能直接转化为挥棒速度。不需要击球笼——只需一面墙和一个药球。
+
+## 训练步骤
+
+1. 准备：需要一颗药球和一面坚实的墙（混凝土墙、空心砖墙或反弹网）。药球重量要适合球员的年龄和体型——青少年球员通常 4-6 磅，高中生及更大球员 6-10 磅。目标是最大的旋转速度，而不是最大的重量。绝不要为了重量而牺牲速度。
+2. 练习 1——旋转投墙（正手侧）：球员侧对墙站立，距墙约 3-4 英尺，传球手一侧的肩朝向墙。球置于髋部高度。向后侧髋蓄力，拧紧核心。髋部爆发发力并转动，用最大力量把球掷向墙。接住反弹球后重复。这模拟挥棒时完全相同的髋部与核心转动。每组 8-10 次。
+3. 练习 2——旋转投墙（反手侧）：练习 1 的镜像。球员手套手一侧的肩朝向墙站立。后侧髋蓄力，核心拧紧。髋部发力，转动通过，把球掷向墙。这训练挥棒的随挥一侧。每组 8-10 次。
+4. 练习 3——上步投掷（从线性到旋转）：球员面对墙站立，距墙约 4-5 英尺。球置于胸部高度。朝墙方向跨一步，重心前移到前脚。前脚落地时，髋部爆发转动，双手把球掷向墙。上步形成的脚跟落地会触发髋部转动——与挥棒时相同的顺序。8-10 次。
+5. 练习 4——过顶下砸：球员背对墙站立，或站在柔软的表面上。双手把球举过头顶，完全伸展。收紧核心，然后用最大力量把球向下砸向地面（或墙），整个动作过程中腹肌、背阔肌和核心都要参与。这训练向下的挥棒轨迹以及让棒头加速通过好球带的能力。8-10 次。
+6. 练习 5——反向旋转投掷：球员侧对墙站立，前侧肩（引导肩）朝向墙。先向后蓄力，然后反向转动——打开髋部，让髋部带动投掷。这迫使髋部先于双手发动，强化髋部带动双手的顺序，从而产生挥棒速度。每侧 8-10 次。
+7. 练习 6——转髋投掷（快速连续）：球员以击球站姿侧对墙站立。不向后蓄力，尽可能快地转动髋部并掷出球。复位后立刻再来。这练的是没有准备时间的纯转髋速度——训练快肌纤维的髋部转动。每组做 6 次快速连续动作，专注于髋部能转多快，而不是投得多用力。
+
+## 教练要点
+
+- 选用你能快速移动的重量——提升挥棒速度的是转动速度，而不是大重量。
+- 每项练习都是髋部先动、双手跟随——如果双手先于髋部移动，顺序就错了。
+- 前脚脚跟落地是髋部转动的触发器——确保脚先落地，髋部再打开。
+- 投墙时在整个转动过程中保持平衡——出手后不要向墙的方向倒下。
+- 每周 2-3 次，之间至少间隔一天休息——这些是爆发式练习，需要恢复。
+- 每项练习做 2-3 组，组间休息 60-90 秒。
+- 进阶方式是逐步提高每次重复的速度，而不是增加球重——更快的转动才是目标。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r9fs-HGCZTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[在 YouTube 观看](https://www.youtube.com/embed/r9fs-HGCZTs)
+
+---
+
+## 导航
+
+- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
+- 同类项目：[[drills/softball/Strength & Conditioning 体能与力量|Strength & Conditioning 体能与力量]]
+- 原始页面：[Dugout Edge - Medicine Ball Bat Speed Drills](https://www.dugoutedge.com/drills/softball/medicine-ball-bat-speed-drills)

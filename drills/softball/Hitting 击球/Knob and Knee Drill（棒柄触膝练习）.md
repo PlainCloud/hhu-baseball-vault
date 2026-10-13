@@ -1,0 +1,76 @@
+---
+title: "Knob and Knee Drill"
+中文名: "棒柄触膝练习"
+aliases:
+  - "Knob and Knee Drill"
+  - "棒柄触膝练习"
+类别: "Hitting"
+类别中文: "击球"
+难度: "beginner"
+时长分钟: 10
+最少人数: 1
+最多人数: 8
+适用年龄: "9-10、11-12、13-14、15-16、17-18、18+"
+器材: ["球棒", "球座"]
+场地: ["不限场地", "击球笼"]
+全部类别: ["hitting"]
+技术点: ["load", "launch-position", "separation"]
+视频: "https://www.youtube.com/embed/Z1txD_mO1xM?start=199"
+来源: "https://www.dugoutedge.com/drills/softball/knob-and-knee-drill"
+tags:
+  - 棒垒球/hitting
+  - 棒垒球/技术点/load
+  - 棒垒球/技术点/launch-position
+  - 棒垒球/技术点/separation
+  - 难度/beginner
+---
+
+# Knob and Knee Drill
+**棒柄触膝练习**
+
+> [!info] 项目信息
+> - **运动项目**：棒球 / 垒球
+> - **类别**：Hitting 击球
+> - **难度**：初级
+> - **时长**：约 10 分钟
+> - **人数**：1-8 人
+> - **适用年龄**：9-10、11-12、13-14、15-16、17-18、18+
+> - **所需器材**：球棒、球座
+> - **场地要求**：不限场地、击球笼
+
+## 项目简介
+
+一项击球练习：把棒柄与前膝靠在一起，再把它们拉开进入启动姿势，以此教正确的蓄力。建立上下半身之间的分离，让挥棒像弹簧一样拧紧。
+
+## 训练步骤
+
+1. 球员以正常击球站姿站位，手持球棒。开始时不需球座或来球——可以空挥，也可以从球座上打。
+2. 开始时让棒柄与前膝彼此靠近——这是起始参照点。
+3. 接着让两者分开：前膝向前移动，双手向后回拉，上半身蓄力，同时下半身开始向前拧紧。这就是蓄力与分离的动作。
+4. 进入蓄力时：向后侧髋拧紧，感受后侧臀肌与髋关节窝收紧。感受后侧肩胛（后肩胛）有力并蓄满。感受前侧被拉伸，一直向上到前侧背阔肌下方。这三种感觉同时出现，说明你在启动姿势上的蓄力是正确的。
+5. 注意双手不要向后绕到身体后方。双手应径直向后进入有力的启动姿势——不要藏起来或包在身体后面。投手应当仍能看到下方那只手。
+6. 一旦感受到正确的拉伸与蓄力，就完成挥棒。
+7. 提示口令：「棒柄与膝靠拢，慢慢拉开，挥棒。」先放慢速度做，感受到拉伸后再加快。
+8. 把这项练习当作实战击球前的热身练习。先做几次慢速重复感受蓄力，再过渡到完整挥棒。从球座上打，很适合加入实际击球。
+
+## 教练要点
+
+- 启动姿势要感受三件事：前侧（前侧背阔肌）被拉伸、后侧肩胛有力、后侧髋拧紧。三者同时具备，说明蓄力正确。
+- 双手向后进入有力的启动姿势——不是向后绕到身体后面。投手应当仍能看到下方那只手。
+- 这是一项分离（髋手分离）练习——上下半身朝相反方向运动，产生拧紧的张力，为挥棒提供动力。
+- 先慢做以感受拉伸。感觉建立之后再提速。
+- 很适合作为球座练习或实战击球前的热身——做几次棒柄与膝的重复，把蓄力模式固化下来。
+
+## 视频演示
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Z1txD_mO1xM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[在 YouTube 观看](https://www.youtube.com/embed/Z1txD_mO1xM?start=199)
+
+---
+
+## 导航
+
+- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
+- 同类项目：[[drills/softball/Hitting 击球|Hitting 击球]]
+- 原始页面：[Dugout Edge - Knob and Knee Drill](https://www.dugoutedge.com/drills/softball/knob-and-knee-drill)

@@ -56,14 +56,14 @@ tags:
 
 ## 视频演示
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ByCET3-s1sg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![点击观看视频演示](https://img.youtube.com/vi/ByCET3-s1sg/hqdefault.jpg)](https://www.youtube.com/watch?v=ByCET3-s1sg)
 
-[在 YouTube 观看](https://www.youtube.com/embed/ByCET3-s1sg)
+[在 YouTube 观看](https://www.youtube.com/watch?v=ByCET3-s1sg)
 
 ---
 
 ## 导航
 
-- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
-- 同类项目：[[drills/softball/Hitting 击球|Hitting 击球]]
+- 返回索引：[🏠 垒球训练库总览](../%F0%9F%8F%A0%20%E5%9E%92%E7%90%83%E8%AE%AD%E7%BB%83%E5%BA%93%E6%80%BB%E8%A7%88.md)
+- 同类项目：[Hitting 击球](../Hitting%20%E5%87%BB%E7%90%83.md)
 - 原始页面：[Dugout Edge - Wiffle Ball Circle](https://www.dugoutedge.com/drills/softball/wiffle-ball-circle)

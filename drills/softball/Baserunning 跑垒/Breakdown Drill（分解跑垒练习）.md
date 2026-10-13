@@ -59,14 +59,14 @@ tags:
 
 ## 视频演示
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DlHFzjCdkTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![点击观看视频演示](https://img.youtube.com/vi/DlHFzjCdkTc/hqdefault.jpg)](https://www.youtube.com/watch?v=DlHFzjCdkTc)
 
-[在 YouTube 观看](https://www.youtube.com/embed/DlHFzjCdkTc)
+[在 YouTube 观看](https://www.youtube.com/watch?v=DlHFzjCdkTc)
 
 ---
 
 ## 导航
 
-- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
-- 同类项目：[[drills/softball/Baserunning 跑垒|Baserunning 跑垒]]
+- 返回索引：[🏠 垒球训练库总览](../%F0%9F%8F%A0%20%E5%9E%92%E7%90%83%E8%AE%AD%E7%BB%83%E5%BA%93%E6%80%BB%E8%A7%88.md)
+- 同类项目：[Baserunning 跑垒](../Baserunning%20%E8%B7%91%E5%9E%92.md)
 - 原始页面：[Dugout Edge - Breakdown Drill](https://www.dugoutedge.com/drills/softball/breakdown-baserunning-drill)

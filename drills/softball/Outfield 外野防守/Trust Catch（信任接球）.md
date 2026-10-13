@@ -59,14 +59,14 @@ tags:
 
 ## 视频演示
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wG8pIAvWaGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![点击观看视频演示](https://img.youtube.com/vi/wG8pIAvWaGo/hqdefault.jpg)](https://www.youtube.com/watch?v=wG8pIAvWaGo)
 
-[在 YouTube 观看](https://www.youtube.com/embed/wG8pIAvWaGo?start=442)
+[在 YouTube 观看](https://www.youtube.com/watch?v=wG8pIAvWaGo?start=442)
 
 ---
 
 ## 导航
 
-- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
-- 同类项目：[[drills/softball/Outfield 外野防守|Outfield 外野防守]]
+- 返回索引：[🏠 垒球训练库总览](../%F0%9F%8F%A0%20%E5%9E%92%E7%90%83%E8%AE%AD%E7%BB%83%E5%BA%93%E6%80%BB%E8%A7%88.md)
+- 同类项目：[Outfield 外野防守](../Outfield%20%E5%A4%96%E9%87%8E%E9%98%B2%E5%AE%88.md)
 - 原始页面：[Dugout Edge - Trust Catch](https://www.dugoutedge.com/drills/softball/trust-catch-softball-outfield)

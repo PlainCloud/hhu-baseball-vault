@@ -61,6 +61,6 @@ tags:
 
 ## 导航
 
-- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
-- 同类项目：[[drills/softball/Strength & Conditioning 体能与力量|Strength & Conditioning 体能与力量]]
+- 返回索引：[🏠 垒球训练库总览](../%F0%9F%8F%A0%20%E5%9E%92%E7%90%83%E8%AE%AD%E7%BB%83%E5%BA%93%E6%80%BB%E8%A7%88.md)
+- 同类项目：[Strength & Conditioning 体能与力量](../Strength%20%26%20Conditioning%20%E4%BD%93%E8%83%BD%E4%B8%8E%E5%8A%9B%E9%87%8F.md)
 - 原始页面：[Dugout Edge - Pole Sprints](https://www.dugoutedge.com/drills/softball/pole-sprints)

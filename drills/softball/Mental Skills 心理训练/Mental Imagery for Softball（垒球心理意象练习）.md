@@ -77,14 +77,14 @@ tags:
 
 ## 视频演示
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lhZxBGFGh4Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![点击观看视频演示](https://img.youtube.com/vi/lhZxBGFGh4Q/hqdefault.jpg)](https://www.youtube.com/watch?v=lhZxBGFGh4Q)
 
-[在 YouTube 观看](https://www.youtube.com/embed/lhZxBGFGh4Q)
+[在 YouTube 观看](https://www.youtube.com/watch?v=lhZxBGFGh4Q)
 
 ---
 
 ## 导航
 
-- 返回索引：[[drills/softball/🏠 垒球训练库总览|🏠 垒球训练库总览]]
-- 同类项目：[[drills/softball/Mental Skills 心理训练|Mental Skills 心理训练]]
+- 返回索引：[🏠 垒球训练库总览](../%F0%9F%8F%A0%20%E5%9E%92%E7%90%83%E8%AE%AD%E7%BB%83%E5%BA%93%E6%80%BB%E8%A7%88.md)
+- 同类项目：[Mental Skills 心理训练](../Mental%20Skills%20%E5%BF%83%E7%90%86%E8%AE%AD%E7%BB%83.md)
 - 原始页面：[Dugout Edge - Mental Imagery for Softball](https://www.dugoutedge.com/drills/softball/mental-imagery-for-softball)

@@ -1,6 +1,8 @@
 # ⚾ HHU Baseball Vault
 
-棒垒球知识库（Obsidian Vault）。
+> 为 HHU 棒垒球社而作
+
+欢迎队员们前来围观！本仓库集合了 [Dugout Edge](https://www.dugoutedge.com/drills/softball) 中的271项训练动作，并附带一个 SKILL.md，供大家在 agent 中使用来生成一周训练计划。
 
 ## 📚 内容索引
 
